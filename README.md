@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Italo Calisaya
+- 👀 I’m interested in Desarollo web...
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on sales application
+- 📫 How to reach me, my email: icalisaya@gmail.com
